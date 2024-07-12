@@ -1,0 +1,448 @@
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Anton-Regular___055c4df4e2f8c7a4d4675cdd8fa68da0.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Anton-Regular___055c4df4e2f8c7a4d4675cdd8fa68da0.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Barlow-Bold___72871854aabdd7a79c4fc5038cb4faaf.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Barlow-Bold___72871854aabdd7a79c4fc5038cb4faaf.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Barlow-Light___2f88cf8762c53a8be3c3ec53b8e01edf.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Barlow-Light___2f88cf8762c53a8be3c3ec53b8e01edf.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Barlow-Medium___bdffb48240a3383080812d6830ff6f54.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Barlow-Medium___bdffb48240a3383080812d6830ff6f54.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Barlow-Regular___9373fb661b5c2954ab84d1b7f42774fe.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Barlow-Regular___9373fb661b5c2954ab84d1b7f42774fe.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Barlow-SemiBold___29527ab52af2334e2bcb6290c8692f70.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Barlow-SemiBold___29527ab52af2334e2bcb6290c8692f70.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Botafogo2023Oficia_2___080c24afc646cd65c6f6c89dc94af883.woff
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Botafogo2023Oficia_2___080c24afc646cd65c6f6c89dc94af883.woff
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Botafogo2023Oficia_2___0a04fd19602dcb24eb1113a5dafe9239.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Botafogo2023Oficia_2___0a04fd19602dcb24eb1113a5dafe9239.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Botafogo2023Oficia_2___8b859f62e57cad7e58f9c47f79dcfdc1.eot
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Botafogo2023Oficia_2___8b859f62e57cad7e58f9c47f79dcfdc1.eot
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Botafogo2023Oficia_2___fcf787862f2acbb66f316f7a43b6f435.woff2
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Botafogo2023Oficia_2___fcf787862f2acbb66f316f7a43b6f435.woff2
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/JosefinSans-Regular___effd9508e574fd2ab338bbd81f784f3e.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\JosefinSans-Regular___effd9508e574fd2ab338bbd81f784f3e.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Poppins-Medium___614a91afc751f09d049231f828801c20.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Poppins-Medium___614a91afc751f09d049231f828801c20.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Roboto-Medium___68ea4734cf86bd544650aee05137d7bb.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Roboto-Medium___68ea4734cf86bd544650aee05137d7bb.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/fonts/Vintage_BFR-Regular___66e814469381f57d2951790d9b755d11.ttf
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\fonts\Vintage_BFR-Regular___66e814469381f57d2951790d9b755d11.ttf
+Content Type: application/octet-stream
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/img/background-LP-camisa_mob___08d11bade719ff74328e1c59480d54e0.png
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\img\background-LP-camisa_mob___08d11bade719ff74328e1c59480d54e0.png
+Content Type: image/png
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/img/background-LP-camisa___f985ff8d2fbd9bb132669523060413c3.png
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\img\background-LP-camisa___f985ff8d2fbd9bb132669523060413c3.png
+Content Type: image/png
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-arrow-down-black___574b15e40bbb997257fc2f7a3346d44e.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-arrow-down-black___574b15e40bbb997257fc2f7a3346d44e.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-arrow-menu-mobile___d6d32fcd2a0ee5e7069a647845e26811.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-arrow-menu-mobile___d6d32fcd2a0ee5e7069a647845e26811.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-arrow-right-black___db2c0e3cce55e867245aa3ead39070c9.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-arrow-right-black___db2c0e3cce55e867245aa3ead39070c9.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-arrow-shelf___d21eac631c057deacc8676f54a13e8ec.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-arrow-shelf___d21eac631c057deacc8676f54a13e8ec.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-camisa-7-menu-mobile___1bd0c47c68ef519df5ad68059a857add.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-camisa-7-menu-mobile___1bd0c47c68ef519df5ad68059a857add.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-close-button-menu-mobile___f40d47d61e6507073a3fb91959a8f6ea.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-close-button-menu-mobile___f40d47d61e6507073a3fb91959a8f6ea.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-close-button-minicart___827fa74055d06e68bf7ef10bbaffa83e.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-close-button-minicart___827fa74055d06e68bf7ef10bbaffa83e.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-close-button-search___e84fb6ccd987c6a26db83b733c27808c.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-close-button-search___e84fb6ccd987c6a26db83b733c27808c.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-minicart-header-v3___0c6387a8504be38792f593aaea21ecea.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-minicart-header-v3___0c6387a8504be38792f593aaea21ecea.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-orders-mobile-v2___6b4d561d1ebf1c4a287ad957b5ee51a2.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-orders-mobile-v2___6b4d561d1ebf1c4a287ad957b5ee51a2.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-remove-minicart___e502fbbe507866117d93b9445b1c0e71.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-remove-minicart___e502fbbe507866117d93b9445b1c0e71.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-search-bar-v2___6aa6a25d9f8a6bf6c6173b45e37fd0ed.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-search-bar-v2___6aa6a25d9f8a6bf6c6173b45e37fd0ed.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-search-bar-white___97329c8376afb0a38044d877e3a674bc.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-search-bar-white___97329c8376afb0a38044d877e3a674bc.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-wishlist-full___49115522ed319310b2eeb6beaa766190.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-wishlist-full___49115522ed319310b2eeb6beaa766190.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/icon-wishlist___1c867a6676c6f5714dce8dbcebdb276d.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\icon-wishlist___1c867a6676c6f5714dce8dbcebdb276d.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/ico_search-bar-black___e06bd1606125740290c8b2a8cbd85d6f.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\ico_search-bar-black___e06bd1606125740290c8b2a8cbd85d6f.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/assets/vtex/assets-builder/botafogo.store-theme/1.0.124/svg/loading-page___db7b336e913c0e0dc8a4bf0375562d03.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\assets\vtex\assets-builder\botafogo.store-theme\1.0.124\svg\loading-page___db7b336e913c0e0dc8a4bf0375562d03.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/animate.css@3.7.0/animate.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\animate.css@3.7.0\animate.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/fg-loadcss@2.1.0/dist/cssrelpreload.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\fg-loadcss@2.1.0\dist\cssrelpreload.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/history@4.7.2/umd/history.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\history@4.7.2\umd\history.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/lazysizes@5.3.2/lazysizes.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\lazysizes@5.3.2\lazysizes.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/lazysizes@5.3.2/plugins/unveilhooks/ls.unveilhooks.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\lazysizes@5.3.2\plugins\unveilhooks\ls.unveilhooks.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/prop-types@15.7.2/prop-types.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\prop-types@15.7.2\prop-types.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/ramda@0.26.1/dist/ramda.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\ramda@0.26.1\dist\ramda.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/react-dom@16.9.0/umd/react-dom-server.browser.production.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\react-dom@16.9.0\umd\react-dom-server.browser.production.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/react-dom@16.9.0/umd/react-dom.production.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\react-dom@16.9.0\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/react-intl@3.9.1/dist/react-intl.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\react-intl@3.9.1\dist\react-intl.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/react@16.9.0/umd/react.production.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\react@16.9.0\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/regenerator-runtime@0.11.1/runtime.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\regenerator-runtime@0.11.1\runtime.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/npm/vtex-render-session@1.9.2/dist/index.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\npm\vtex-render-session@1.9.2\dist\index.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/botafogo.store-theme@1.0.124/public/react/2.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\botafogo.store-theme@1.0.124\public\react\2.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/botafogo.store-theme@1.0.124/public/react/67f27656524c80a0dd217362d9580c32.gif
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\botafogo.store-theme@1.0.124\public\react\67f27656524c80a0dd217362d9580c32.gif
+Content Type: image/gif
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/botafogo.store-theme@1.0.124/public/react/b33967655d2525205cdaab0653c650e3.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\botafogo.store-theme@1.0.124\public\react\b33967655d2525205cdaab0653c650e3.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/botafogo.store-theme@1.0.124/public/react/CustomPriceRender.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\botafogo.store-theme@1.0.124\public\react\CustomPriceRender.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/botafogo.store-theme@1.0.124/public/react/e5abe815711518d9d9235bb8a2188fdc.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\botafogo.store-theme@1.0.124\public\react\e5abe815711518d9d9235bb8a2188fdc.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/botafogo.store-theme@1.0.124/public/react/f95ce1c2ecc35a2cfae9f0dd99f73b71.svg
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\botafogo.store-theme@1.0.124\public\react\f95ce1c2ecc35a2cfae9f0dd99f73b71.svg
+Content Type: image/svg+xml
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/botafogo.store-theme@1.0.124/public/react/HelmetComponent.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\botafogo.store-theme@1.0.124\public\react\HelmetComponent.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.checkout-resources@0.49.0,common,0,MutationAddToCart,4,MutationSetManualPrice,5,MutationUpdateItems,MutationClearOrderFormMessages,6,QueryOrderForm,Utils&files=vtex.checkout-splunk@0.1.1,useSplunk&files=vtex.search-page-context@0.2.0,SearchPageContext&files=vtex.css-handles@1.0.1,common,0,useCssHandles,createCssHandlesContext,applyModifiers&files=vtex.on-view@1.0.0,common,useOnView&files=vtex.product-context@0.10.1,common&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-2.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.flex-layout@0.21.3,common,0,FlexLayout,Col&files=vtex.product-summary@2.89.0,common,ProductSummaryCustom,ProductSummaryName,ProductSummaryImage&files=vtex.search@2.17.0,common,Autocomplete&files=vtex.search-result@3.132.2,common,4,SearchQuery,3,0,1,2,7,SearchResultLayout,SearchResultFlexible,NotFoundLayout&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-9.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.modal-layout@0.14.1,ModalHeader&files=vtex.rich-text@0.16.0,index&files=vtex.store-image@0.21.0,common,Image&files=vtex.store-link@0.9.3,common,0,StoreLink&files=vtex.menu@2.35.1,common,0,Menu,MenuItem,Submenu&files=vtex.product-highlights@2.3.0,common,ProductHighlights,ProductHighlightWrapper,ProductHighlightText&files=vtex.order-items@0.13.23,common,0,OrderItems&files=vtex.product-price@1.31.0,common,ListPrice&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-7.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.product-context@0.10.1,ProductContextProvider,useProduct,useProductDispatch&files=vtex.product-group-context@0.2.0,ProductGroupContext&files=vtex.session-client@1.0.2,common,useRenderSession&files=vtex.responsive-values@0.4.2,common,useResponsiveValues,useResponsiveValue&files=vtex.responsive-layout@0.1.4,common,ResponsiveLayoutDesktop&files=vtex.store-icons@0.18.0,common,IconSearch,IconCaret,IconGrid,IconInlineGrid,IconSingleGrid,IconHome,IconFilter,IconClose,Icon&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-3.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.product-price@1.31.0,SellingPrice,0,Installments&files=vtex.minicart@2.67.1,common,Minicart&files=vtex.store-components@3.173.1,common,Container,Image,Animation,10,4,SearchBar,ProductName,CollectionBadges,DiscountBadge&files=vtex.add-to-cart-button@0.30.2,common,0,Wrapper&files=vtex.store-header@2.29.0,common,index,Layout&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-8.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.product-summary-context@0.12.0,common,ProductSummaryContext&files=botafogo.store-theme@1.0.124,common,HelmetComponent,0,1,2,CustomLogin,RestrictedPromotion,CustomPriceRender&files=vtex.breadcrumb@1.9.4,common,0,SearchBreadcrumb&files=vtex.store-drawer@0.17.1,common,Drawer&files=vtex.modal-layout@0.14.1,common,ModalContext,ModalTrigger,1,0,Modal&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-6.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.react-vtexid@4.60.0,useLogInWithPassword,useRedirectAfterLogin,useSendAccessKey,useSetPassword,validations&files=vtex.store-icons@0.18.0,IconArrowBack,IconEyeSight&files=vtex.login@2.59.0,common,0,2,1,LoginContent,Wrapper&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-13.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.render-runtime@8.134.2,ExtensionContainer&files=vtex.admin-pages@4.54.1,common,6,18,HighlightOverlay&files=vtex.request-capture@2.3.0,index&files=vtex.google-tag-manager@3.5.4,index&files=vtex.sae-analytics@2.13.0,common,0,index&files=vtex.facebook-fbe@1.8.7,common,1,FbePixel&files=vtex.react-vtexid@4.60.0,common,AuthServiceLazy,AuthStateLazy,getAbsReturnUrl,1,0,useLogInWithAccessKey&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-12.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.render-runtime@8.134.2,LayoutContainer&files=vtex.device-detector@0.2.6,common,useDevice,withDevice&files=vtex.css-handles@0.4.4,common,useCssHandles,applyModifiers&files=vtex.styleguide@9.146.9,common,0,Button,ButtonWithIcon,19,ToastContext,ToastProvider,Spinner,Checkbox,IconClose,1,Input,41&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.search-result@3.132.2,GalleryLayoutSwitcher,5,6,11,8,FilterNavigatorFlexible,FetchMore,10,SearchTitleFlexible,GalleryLayoutOption,SidebarCloseButton,OrderByFlexible,TotalProductsFlexible,SearchContent,13,9,12,Gallery,NotFoundSearch&files=vtex.store@2.136.0,common,SearchContext&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-10.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.store-icons@0.18.0,IconMenu,IconCart&files=vtex.sticky-layout@0.3.4,common,0,StickyLayout&files=vtex.react-portal@0.4.1,common,0,Overlay&files=vtex.native-types@0.10.1,common,IOMessage,formatIOMessage,IOMessageWithMarkers&files=vtex.stack-layout@0.1.1,index&files=vtex.store-resources@0.96.0,common,QueryFacetsV2,QueryProductSearchV3,QuerySearchMetadataV2,0,MutationAddToCart,1,MutationUpdateItems&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-4.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.store-resources@0.96.0,MutationUpdateOrderFormCheckin,MutationUpdateOrderFormProfile,MutationUpdateOrderFormShipping,OrderFormContext,PWAContext,3,QueryOrderForm,QueryItemsWithSimulation,QueryAutocompleteSearchSuggestions,QuerySuggestionProducts,QueryTopSearches&files=vtex.product-list-context@0.4.1,common,ProductListContext,useProductImpression&files=vtex.order-manager@0.12.0,common,0,OrderForm,OrderQueue&files=vtex.format-currency@0.4.1,common,formatCurrency,FormattedCurrency&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-5.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.store@2.136.0,0,SearchWrapper,StoreWrapper,DefaultChallenge&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-11.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.styleguide@9.146.9,InputCurrency,Slider,33,Tag,InputSearch,IconClock,2,4,Tooltip,withToast&files=vtex.open-graph@1.3.0,common,SearchOpenGraph&files=vtex.pixel-manager@1.9.0,common,0,PixelContext,usePixel,usePixelEventCallback&files=vtex.structured-data@0.12.1,common,0,ProductList,SearchBreadcrumb&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\bundle\public\react\asset.min-1.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.admin-pages@4.54.1/public/react/HighlightOverlay.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.admin-pages@4.54.1\public\react\HighlightOverlay.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.flex-layout@0.21.3/public/react/0.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.flex-layout@0.21.3\public\react\0.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.login@2.59.0/public/react/1.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.login@2.59.0\public\react\1.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.minicart@2.67.1/public/react/Minicart.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.minicart@2.67.1\public\react\Minicart.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.modal-layout@0.14.1/public/react/0.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.modal-layout@0.14.1\public\react\0.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.modal-layout@0.14.1/public/react/ModalHeader.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.modal-layout@0.14.1\public\react\ModalHeader.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.product-summary@2.89.0/public/react/ProductSummaryImage.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.product-summary@2.89.0\public\react\ProductSummaryImage.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.2/public/react/apollo.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.render-runtime@8.134.2\public\react\apollo.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.2/public/react/common.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.render-runtime@8.134.2\public\react\common.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.2/public/react/common.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.render-runtime@8.134.2\public\react\common.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.2/public/react/graphql.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.render-runtime@8.134.2\public\react\graphql.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.2/public/react/index.min.js?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.render-runtime@8.134.2\public\react\index.min.js
+Content Type: application/javascript
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.rich-text@0.16.0/public/react/index.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.rich-text@0.16.0\public\react\index.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.search-result@3.132.2/public/react/1.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.search-result@3.132.2\public\react\1.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.search-result@3.132.2/public/react/10.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.search-result@3.132.2\public\react\10.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.search-result@3.132.2/public/react/8.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.search-result@3.132.2\public\react\8.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.search-result@3.132.2/public/react/NotFoundLayout.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.search-result@3.132.2\public\react\NotFoundLayout.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.search-result@3.132.2/public/react/OrderByFlexible.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.search-result@3.132.2\public\react\OrderByFlexible.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.search-result@3.132.2/public/react/TotalProductsFlexible.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.search-result@3.132.2\public\react\TotalProductsFlexible.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.search@2.17.0/public/react/Autocomplete.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.search@2.17.0\public\react\Autocomplete.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.store-components@3.173.1/public/react/4.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.store-components@3.173.1\public\react\4.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.store-components@3.173.1/public/react/Container.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.store-components@3.173.1\public\react\Container.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.store-components@3.173.1/public/react/DiscountBadge.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.store-components@3.173.1\public\react\DiscountBadge.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.store-components@3.173.1/public/react/SearchBar.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.store-components@3.173.1\public\react\SearchBar.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.styleguide@9.146.9/public/react/0.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.styleguide@9.146.9\public\react\0.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.styleguide@9.146.9/public/react/1.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.styleguide@9.146.9\public\react\1.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.styleguide@9.146.9/public/react/Spinner.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.styleguide@9.146.9\public\react\Spinner.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/assets/v1/published/vtex.styleguide@9.146.9/public/react/Tooltip.min.css?workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\assets\v1\published\vtex.styleguide@9.146.9\public\react\Tooltip.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/fonts/989db2448f309bfdd99b513f37c84b8f5794d2b5?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\fonts\989db2448f309bfdd99b513f37c84b8f5794d2b5
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/overrides/botafogo.store-theme@1.0.124$fonts.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\overrides\botafogo.store-theme@1.0.124$fonts.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/overrides/botafogo.store-theme@1.0.124$overrides.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\overrides\botafogo.store-theme@1.0.124$overrides.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/overrides/vtex.minicart@2.67.1$overrides.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\overrides\vtex.minicart@2.67.1$overrides.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/overrides/vtex.product-list@0.37.1$overrides.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\overrides\vtex.product-list@0.37.1$overrides.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/overrides/vtex.shelf-components@0.10.0$overrides.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\overrides\vtex.shelf-components@0.10.0$overrides.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/style/botafogo.store-theme@1.0.124$style.common.min.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\style\botafogo.store-theme@1.0.124$style.common.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/style/botafogo.store-theme@1.0.124$style.large.min.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\style\botafogo.store-theme@1.0.124$style.large.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/style/botafogo.store-theme@1.0.124$style.notsmall.min.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\style\botafogo.store-theme@1.0.124$style.notsmall.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/style/botafogo.store-theme@1.0.124$style.small.min.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\style\botafogo.store-theme@1.0.124$style.small.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vtexassets.com/_v/public/vtex.styles-graphql/v1/style/botafogo.store-theme@1.0.124$style.xlarge.min.css?v=1&workspace=master
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\_v\public\vtex.styles-graphql\v1\style\botafogo.store-theme@1.0.124$style.xlarge.min.css
+Content Type: text/css
+
+Uri: https://botafogo.vteximg.com.br/arquivos/favicon-botafogo.png
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\arquivos\favicon-botafogo.png
+Content Type: image/png
+
+Uri: https://io.vtex.com.br/v3/polyfill.min.js?version=3.89.4&features=Object.keys,document.currentScript,CustomEvent&flags=gated,always
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\v3\polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://io.vtex.com.br/v3/polyfill.min.js?version=3.89.4&features=Object.values,Object.entries,Object.assign,Array.from,Array.prototype.findIndex,Array.prototype.fill,Array.prototype.find,Array.prototype.flatMap,Array.prototype.includes,String.prototype.startsWith,String.prototype.endsWith,String.prototype.includes,String.prototype.repeat,Symbol,fetch,Promise,Map,WeakMap,Number.isInteger,Number.isNaN,Number.EPSILON,Set,Function.name,URL,IntersectionObserver,Intl.~locale.pt-BR&flags=gated
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\v3\polyfill.min-1.js
+Content Type: text/javascript
+
+Uri: https://static.zdassets.com/ekr/snippet.js?key=886882d5-88d4-4b84-aac2-85405c85664e
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\ekr\snippet.js
+Content Type: application/javascript
+
+Uri: https://store.botafogo.com.br/linha-oficial---24-25
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\linha-oficial---24-25.html
+Content Type: text/html
+
+Uri: https://tag.goadopt.io/injector.js?website_code=263ae644-4b90-40c0-bb86-1766ce69eafc
+File Name: C:\Downloaded Web Sites\store.botafogo.com.br\injector.js
+Content Type: text/javascript
+
